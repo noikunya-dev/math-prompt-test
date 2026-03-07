@@ -26,6 +26,7 @@ plt.tight_layout()
 plt.savefig('derivative_comparison.png', dpi=150)   # 画像として保存
 # plt.show()  # 削除またはコメントアウト
 print("max error:", np.max(error))
+test
 
 
 
