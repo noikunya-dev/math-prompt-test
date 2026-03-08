@@ -1,4 +1,41 @@
 Copyright (c) 2026 TAKESHI
-This repository is licensed under the GNU General Public License v3.0 (GPLv3).
-See LICENSE-GPLv3.txt for the full text.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, and distribute the Software, subject to the
+following conditions:
+
+1. Attribution
+   Any distribution of this Software, in source or binary form, must include
+   the above copyright notice and this license text.
+
+2. No Trademark Permission
+   The names "Noikun-ya", "noikunya-dev", "ari-kun", "chief", and "CEO"
+   are trademarks or service marks of the author. This license does not grant
+   permission to use these names or associated branding for endorsement or
+   promotion without explicit written consent.
+
+3. No Warranty
+   The Software is provided "as is", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, and noninfringement.
+
+4. Limitation of Liability
+   In no event shall the author be liable for any claim, damages, or other
+   liability arising from, out of, or in connection with the Software or the
+   use or other dealings in the Software.
+
+5. Separation of Responsibility
+   Use of this Software does not imply any relationship, obligation, or
+   responsibility between the user and the author beyond the scope of this
+   license. Actions taken by third parties under different identities or
+   operational layers (including but not limited to "ari-kun", "noikunya-dev",
+   "chief", or "CEO") shall not be construed as commitments or liabilities of
+   the author unless explicitly stated in writing.
+
+6. Optional Commercial Licensing
+   Commercial use beyond the permissions granted in this license may require
+   a separate commercial agreement. Contact the author for details.
+
+END OF LICENSE
 
